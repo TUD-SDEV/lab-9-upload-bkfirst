@@ -5,5 +5,4 @@ urlpatterns=[
     path('signup/', SignUpView.as_view(), name='signup'),
     path('profile/<int:pk>/', ProfilePageView.as_view(), name='show_profile'),
     path('profile/edit/<int:pk>/', ProfileEditView.as_view(), name='edit_profile'),
-
 ]
