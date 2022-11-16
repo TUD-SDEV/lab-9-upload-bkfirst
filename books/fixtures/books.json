@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "a6071f34-ce75-4ce0-aa8d-33b2d7a6c544",
+        "fields": {
+            "title": "Django Unleashed",
+            "author": "bruh",
+            "price": "5000.00",
+            "date_publication": "2022-11-15",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "a8756981-4291-4288-94b6-66f1e1b3dc20",
+        "fields": {
+            "title": "Meth: CookBook",
+            "author": "Walter White",
+            "price": "20.00",
+            "date_publication": "2022-11-15",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "c1e5fcd1-8947-48da-b2a8-8ca41a10afb9",
+        "fields": {
+            "title": "pyhton cookbook",
+            "author": "jessie",
+            "price": "6000.00",
+            "date_publication": "2022-11-15",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
